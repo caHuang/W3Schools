@@ -6,3 +6,4 @@
 * [Headings](https://github.com/caHuang/W3Schools/tree/master/HTML/Headings)
 * [Paragraphs](https://github.com/caHuang/W3Schools/tree/master/HTML/Paragraphs)
 * [Styles](https://github.com/caHuang/W3Schools/tree/master/HTML/Styles)
+* [Formatting](https://github.com/caHuang/W3Schools/tree/master/HTML/Formatting)
